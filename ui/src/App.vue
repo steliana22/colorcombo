@@ -1,5 +1,6 @@
 <template>
   <v-app>
+    <!-- Bar -->
     <v-app-bar app color="orange darken-2" dark>
       <div class="d-flex align-center justify-center">
         <h1 class="mx-auto">The ColorCombo</h1>
